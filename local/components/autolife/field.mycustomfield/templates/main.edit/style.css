@@ -1,0 +1,10 @@
+.bxhtmled-area-cnt {
+    position: relative;
+    top: 34px;
+    left: 0;
+    z-index: 100
+}
+.bxhtmled-top-bar-wrap {
+    margin-left: 10px;
+    margin-right: 10px;
+}
